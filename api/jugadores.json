@@ -1,0 +1,793 @@
+{
+    "Raimon": [
+        {
+            "id": "1",
+            "nombre": "Axel",
+            "apellido": "Blaze",
+            "posicion": "Delantero",
+            "img": "/equipos/Raimon/Axel.png"
+        },
+        {
+            "id": "2",
+            "nombre": "Mark",
+            "apellido": "Evans",
+            "posicion": "Portero",
+            "img": "/equipos/Raimon/Mark.png"
+        },
+        {
+            "id": "3",
+            "nombre": "Bobby",
+            "apellido": "Shearer",
+            "posicion": "Defensa",
+            "img": "/equipos/Raimon/Bobby.png"
+        },
+        {
+            "id": "4",
+            "nombre": "Erik",
+            "apellido": "Eagle",
+            "posicion": "Delantero",
+            "img": "/equipos/Raimon/Erik.png"
+        },
+        {
+            "id": "5",
+            "nombre": "Jack",
+            "apellido": "Wallside",
+            "posicion": "Defensa",
+            "img": "/equipos/Raimon/Jack.png"
+        },
+        {
+            "id": "6",
+            "nombre": "Jim",
+            "apellido": "Wraith",
+            "posicion": "Defensa",
+            "img": "/equipos/Raimon/Jim.png"
+        },
+        {
+            "id": "7",
+            "nombre": "Jude",
+            "apellido": "Sharp",
+            "posicion": "Mediocampista",
+            "img": "/equipos/Raimon/Jude.png"
+        },
+        {
+            "id": "8",
+            "nombre": "Kevin",
+            "apellido": "Dragonfly",
+            "posicion": "Delantero",
+            "img": "/equipos/Raimon/Kevin.png"
+        },
+        {
+            "id": "9",
+            "nombre": "Max",
+            "apellido": "Carson",
+            "posicion": "Mediocampista",
+            "img": "/equipos/Raimon/Max.png"
+        },
+        {
+            "id": "10",
+            "nombre": "Nathan",
+            "apellido": "Swift",
+            "posicion": "Delantero",
+            "img": "/equipos/Raimon/Nathan.png"
+        },
+        {
+            "id": "11",
+            "nombre": "Sam",
+            "apellido": "Kincaid",
+            "posicion": "Delantero",
+            "img": "/equipos/Raimon/Sam.png"
+        },
+        {
+            "id": "12",
+            "nombre": "Steve",
+            "apellido": "Grim",
+            "posicion": "Defensa",
+            "img": "/equipos/Raimon/Steve.png"
+        },
+        {
+            "id": "13",
+            "nombre": "Timmy",
+            "apellido": "Sanders",
+            "posicion": "Mediocampista",
+            "img": "/equipos/Raimon/Timmy.png"
+        },
+        {
+            "id": "14",
+            "nombre": "Tod",
+            "apellido": "Ironside",
+            "posicion": "Defensa",
+            "img": "/equipos/Raimon/Tod.png"
+        },
+        {
+            "id": "15",
+            "nombre": "Willy",
+            "apellido": "Glass",
+            "posicion": "Delantero",
+            "img": "/equipos/Raimon/Willy.png"
+        }
+    ],
+    "Royal_Academy": [
+        {
+            "id": "1",
+            "nombre": "Jude",
+            "apellido": "Sharp",
+            "posicion": "Mediocampista",
+            "img": "/equipos/Royal_Academy/Jude.png"
+        },
+        {
+            "id": "2",
+            "nombre": "Bloom",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Royal_Academy/Bloom.png"
+        },
+        {
+            "id": "3",
+            "nombre": "Carlton",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Royal_Academy/Carlton.png"
+        },
+        {
+            "id": "4",
+            "nombre": "David",
+            "apellido": "Samford",
+            "posicion": "Delantero",
+            "img": "/equipos/Royal_Academy/David.png"
+        },
+        {
+            "id": "5",
+            "nombre": "Drent",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Royal_Academy/Drent.png"
+        },
+        {
+            "id": "6",
+            "nombre": "Hatch",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Royal_Academy/Hatch.png"
+        },
+        {
+            "id": "7",
+            "nombre": "Ingham",
+            "apellido": "",
+            "posicion": "Mediocampista",
+            "img": "/equipos/Royal_Academy/Ingham.png"
+        },
+        {
+            "id": "8",
+            "nombre": "Joseph",
+            "apellido": "King",
+            "posicion": "Portero",
+            "img": "/equipos/Royal_Academy/King.png"
+        },
+        {
+            "id": "9",
+            "nombre": "Lawrenson",
+            "apellido": "",
+            "posicion": "Mediocampista",
+            "img": "/equipos/Royal_Academy/Lawrenson.png"
+        },
+        {
+            "id": "10",
+            "nombre": "Martin",
+            "apellido": "",
+            "posicion": "Delantero",
+            "img": "/equipos/Royal_Academy/Martin.png"
+        },
+        {
+            "id": "11",
+            "nombre": "Master",
+            "apellido": "",
+            "posicion": "Delantero",
+            "img": "/equipos/Royal_Academy/Master.png"
+        },
+        {
+            "id": "12",
+            "nombre": "Potts",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Royal_Academy/Potts.png"
+        },
+        {
+            "id": "13",
+            "nombre": "Simmons",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Royal_Academy/Simmons.png"
+        },
+        {
+            "id": "14",
+            "nombre": "Swing",
+            "apellido": "",
+            "posicion": "Delantero",
+            "img": "/equipos/Royal_Academy/Swing.png"
+        },
+        {
+            "id": "15",
+            "nombre": "Tomlinson",
+            "apellido": "",
+            "posicion": "Mediocampista",
+            "img": "/equipos/Royal_Academy/Tomlinson.png"
+        },
+        {
+            "id": "16",
+            "nombre": "Waldon",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Royal_Academy/Waldon.png"
+        }
+    ],
+    "Zeus": [
+        {
+            "id": "17",
+            "nombre": "Achilles",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Zeus/Achilles.png"
+        },
+        {
+            "id": "18",
+            "nombre": "Aphrodite",
+            "apellido": "",
+            "posicion": "Delantero",
+            "img": "/equipos/Zeus/Aphrodite.png"
+        },
+        {
+            "id": "19",
+            "nombre": "Apollo",
+            "apellido": "",
+            "posicion": "Mediocampista",
+            "img": "/equipos/Zeus/Apollo.png"
+        },
+        {
+            "id": "20",
+            "nombre": "Ares",
+            "apellido": "",
+            "posicion": "Delantero",
+            "img": "/equipos/Zeus/Ares.png"
+        },
+        {
+            "id": "21",
+            "nombre": "Artemis",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Zeus/Artemis.png"
+        },
+        {
+            "id": "22",
+            "nombre": "Athena",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Zeus/Athena.png"
+        },
+        {
+            "id": "23",
+            "nombre": "Chronos",
+            "apellido": "",
+            "posicion": "Portero",
+            "img": "/equipos/Zeus/Chronos.png"
+        },
+        {
+            "id": "24",
+            "nombre": "Demeter",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Zeus/Demeter.png"
+        },
+        {
+            "id": "25",
+            "nombre": "Dionysus",
+            "apellido": "",
+            "posicion": "Mediocampista",
+            "img": "/equipos/Zeus/Dionysus.png"
+        },
+        {
+            "id": "26",
+            "nombre": "Hephestus",
+            "apellido": "",
+            "posicion": "Delantero",
+            "img": "/equipos/Zeus/Hephestus.png"
+        },
+        {
+            "id": "27",
+            "nombre": "Hera",
+            "apellido": "",
+            "posicion": "Mediocampista",
+            "img": "/equipos/Zeus/Hera.png"
+        },
+        {
+            "id": "28",
+            "nombre": "Heracles",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Zeus/Heracles.png"
+        },
+        {
+            "id": "29",
+            "nombre": "Hermes",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Zeus/Hermes.png"
+        },
+        {
+            "id": "30",
+            "nombre": "Icarus",
+            "apellido": "",
+            "posicion": "Delantero",
+            "img": "/equipos/Zeus/Icarus.png"
+        },
+        {
+            "id": "31",
+            "nombre": "Medusa",
+            "apellido": "",
+            "posicion": "Mediocampista",
+            "img": "/equipos/Zeus/Medusa.png"
+        },
+        {
+            "id": "32",
+            "nombre": "Poseidon",
+            "apellido": "",
+            "posicion": "Delantero",
+            "img": "/equipos/Zeus/Poseidon.png"
+        }
+    ],
+    "Wild": [
+        {
+            "id": "31",
+            "nombre": "Boar",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Wild/Boar.png"
+        },
+        {
+            "id": "32",
+            "nombre": "Bullford",
+            "apellido": "",
+            "posicion": "Delantero",
+            "img": "/equipos/Wild/Bullford.png"
+        },
+        {
+            "id": "33",
+            "nombre": "Chameleon",
+            "apellido": "",
+            "posicion": "Mediocampista",
+            "img": "/equipos/Wild/Chameleon.png"
+        },
+        {
+            "id": "34",
+            "nombre": "Cheetah",
+            "apellido": "",
+            "posicion": "Delantero",
+            "img": "/equipos/Wild/Cheetah.png"
+        },
+        {
+            "id": "35",
+            "nombre": "Chicken",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Wild/Chicken.png"
+        },
+        {
+            "id": "36",
+            "nombre": "Eagle",
+            "apellido": "",
+            "posicion": "Portero",
+            "img": "/equipos/Wild/Eagle.png"
+        },
+        {
+            "id": "37",
+            "nombre": "Fishman",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Wild/Fishman.png"
+        },
+        {
+            "id": "38",
+            "nombre": "Gorila",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Wild/Gorila.png"
+        },
+        {
+            "id": "39",
+            "nombre": "Koala",
+            "apellido": "",
+            "posicion": "Mediocampista",
+            "img": "/equipos/Wild/Koala.png"
+        },
+        {
+            "id": "40",
+            "nombre": "Lion",
+            "apellido": "",
+            "posicion": "Delantero",
+            "img": "/equipos/Wild/Lion.png"
+        },
+        {
+            "id": "41",
+            "nombre": "Monkey",
+            "apellido": "",
+            "posicion": "Mediocampista",
+            "img": "/equipos/Wild/Monkey.png"
+        },
+        {
+            "id": "42",
+            "nombre": "Mouseman",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Wild/Mouseman.png"
+        },
+        {
+            "id": "43",
+            "nombre": "Panda",
+            "apellido": "",
+            "posicion": "Mediocampista",
+            "img": "/equipos/Wild/Panda.png"
+        },
+        {
+            "id": "44",
+            "nombre": "Racoon",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Wild/Racoon.png"
+        },
+        {
+            "id": "45",
+            "nombre": "Snake",
+            "apellido": "",
+            "posicion": "Delantero",
+            "img": "/equipos/Wild/Snake.png"
+        },
+        {
+            "id": "46",
+            "nombre": "Toad",
+            "apellido": "",
+            "posicion": "Mediocampista",
+            "img": "/equipos/Wild/Toad.png"
+        }
+    ],
+    "Umbrella": [
+        {
+            "id": "47",
+            "nombre": "Banker",
+            "apellido": "",
+            "posicion": "Mediocampista",
+            "img": "/equipos/Umbrella/Banker.png"
+        },
+        {
+            "id": "48",
+            "nombre": "Caperock",
+            "apellido": "",
+            "posicion": "Delantero",
+            "img": "/equipos/Umbrella/Caperock.png"
+        },
+        {
+            "id": "49",
+            "nombre": "Chaney",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Umbrella/Chaney.png"
+        },
+        {
+            "id": "50",
+            "nombre": "Chops",
+            "apellido": "",
+            "posicion": "Delantero",
+            "img": "/equipos/Umbrella/Chops.png"
+        },
+        {
+            "id": "51",
+            "nombre": "Cyborg",
+            "apellido": "",
+            "posicion": "Portero",
+            "img": "/equipos/Umbrella/Cyborg.png"
+        },
+        {
+            "id": "52",
+            "nombre": "Edmonds",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Umbrella/Edmonds.png"
+        },
+        {
+            "id": "53",
+            "nombre": "Ingram",
+            "apellido": "",
+            "posicion": "Mediocampista",
+            "img": "/equipos/Umbrella/Ingram.png"
+        },
+        {
+            "id": "54",
+            "nombre": "Milford",
+            "apellido": "",
+            "posicion": "Delantero",
+            "img": "/equipos/Umbrella/Milford.png"
+        },
+        {
+            "id": "55",
+            "nombre": "Molehill",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Umbrella/Molehill.png"
+        },
+        {
+            "id": "56",
+            "nombre": "Morefield",
+            "apellido": "",
+            "posicion": "Mediocampista",
+            "img": "/equipos/Umbrella/Morefield.png"
+        },
+        {
+            "id": "57",
+            "nombre": "Most",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Umbrella/Most.png"
+        },
+        {
+            "id": "58",
+            "nombre": "Porter",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Umbrella/Porter.png"
+        },
+        {
+            "id": "59",
+            "nombre": "Rhymes",
+            "apellido": "",
+            "posicion": "Delantero",
+            "img": "/equipos/Umbrella/Rhymes.png"
+        },
+        {
+            "id": "60",
+            "nombre": "Sefton",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Umbrella/Sefton.png"
+        },
+        {
+            "id": "61",
+            "nombre": "Strike",
+            "apellido": "",
+            "posicion": "Delantero",
+            "img": "/equipos/Umbrella/Strike.png"
+        },
+        {
+            "id": "62",
+            "nombre": "Tunk",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Umbrella/Tunk.png"
+        }
+    ],
+    "Shuriken": [
+        {
+            "id": "63",
+            "nombre": "Bandit",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Shuriken/Bandit.png"
+        },
+        {
+            "id": "64",
+            "nombre": "Castle",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Shuriken/Castle.png"
+        },
+        {
+            "id": "65",
+            "nombre": "Cleats",
+            "apellido": "",
+            "posicion": "Mediocampista",
+            "img": "/equipos/Shuriken/Cleats.png"
+        },
+        {
+            "id": "66",
+            "nombre": "Cloak",
+            "apellido": "",
+            "posicion": "Mediocampista",
+            "img": "/equipos/Shuriken/Cloak.png"
+        },
+        {
+            "id": "67",
+            "nombre": "Code",
+            "apellido": "",
+            "posicion": "Portero",
+            "img": "/equipos/Shuriken/Code.png"
+        },
+        {
+            "id": "68",
+            "nombre": "Crackshot",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Shuriken/Crackshot.png"
+        },
+        {
+            "id": "69",
+            "nombre": "Hattori",
+            "apellido": "",
+            "posicion": "Delantero",
+            "img": "/equipos/Shuriken/Hattori.png"
+        },
+        {
+            "id": "70",
+            "nombre": "Hillfort",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Shuriken/Hillfort.png"
+        },
+        {
+            "id": "71",
+            "nombre": "Hood",
+            "apellido": "",
+            "posicion": "Delantero",
+            "img": "/equipos/Shuriken/Hood.png"
+        },
+        {
+            "id": "72",
+            "nombre": "Hopper",
+            "apellido": "",
+            "posicion": "Mediocampista",
+            "img": "/equipos/Shuriken/Hopper.png"
+        },
+        {
+            "id": "73",
+            "nombre": "Ronin",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Shuriken/Ronin.png"
+        },
+        {
+            "id": "74",
+            "nombre": "Samurai",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Shuriken/Samurai.png"
+        },
+        {
+            "id": "75",
+            "nombre": "Spook",
+            "apellido": "",
+            "posicion": "Mediocampista",
+            "img": "/equipos/Shuriken/Spook.png"
+        },
+        {
+            "id": "76",
+            "nombre": "Star",
+            "apellido": "",
+            "posicion": "Delantero",
+            "img": "/equipos/Shuriken/Star.png"
+        },
+        {
+            "id": "77",
+            "nombre": "Thunder",
+            "apellido": "",
+            "posicion": "Delantero",
+            "img": "/equipos/Shuriken/Thunder.png"
+        },
+        {
+            "id": "78",
+            "nombre": "Trops",
+            "apellido": "",
+            "posicion": "Defensa",
+            "img": "/equipos/Shuriken/Trops.png"
+        }
+    ],
+    "Sallys": [
+        {
+            "id": "79",
+            "nombre": "Baughan",
+            "apellido": "",
+            "posicion": "Desconocida",
+            "img": "/equipos/Sallys/Baughan.png"
+        },
+        {
+            "id": "80",
+            "nombre": "Crumb",
+            "apellido": "",
+            "posicion": "Desconocida",
+            "img": "/equipos/Sallys/Crumb.png"
+        },
+        {
+            "id": "81",
+            "nombre": "Daltry",
+            "apellido": "",
+            "posicion": "Desconocida",
+            "img": "/equipos/Sallys/Daltry.png"
+        },
+        {
+            "id": "82",
+            "nombre": "Fielding",
+            "apellido": "",
+            "posicion": "Desconocida",
+            "img": "/equipos/Sallys/Fielding.png"
+        },
+        {
+            "id": "83",
+            "nombre": "Holmes",
+            "apellido": "",
+            "posicion": "Desconocida",
+            "img": "/equipos/Sallys/Holmes.png"
+        },
+        {
+            "id": "84",
+            "nombre": "Jones",
+            "apellido": "",
+            "posicion": "Desconocida",
+            "img": "/equipos/Sallys/Jones.png"
+        },
+        {
+            "id": "85",
+            "nombre": "Knuckles",
+            "apellido": "",
+            "posicion": "Desconocida",
+            "img": "/equipos/Sallys/Knuckles.png"
+        },
+        {
+            "id": "86",
+            "nombre": "Lovely",
+            "apellido": "",
+            "posicion": "Desconocida",
+            "img": "/equipos/Sallys/Lovely.png"
+        },
+        {
+            "id": "87",
+            "nombre": "Prentice",
+            "apellido": "",
+            "posicion": "Desconocida",
+            "img": "/equipos/Sallys/Prentice.png"
+        },
+        {
+            "id": "88",
+            "nombre": "Riversong",
+            "apellido": "",
+            "posicion": "Desconocida",
+            "img": "/equipos/Sallys/Riversong.png"
+        },
+        {
+            "id": "89",
+            "nombre": "Samantha",
+            "apellido": "",
+            "posicion": "Desconocida",
+            "img": "/equipos/Sallys/Samantha.png"
+        },
+        {
+            "id": "90",
+            "nombre": "Sandstone",
+            "apellido": "",
+            "posicion": "Desconocida",
+            "img": "/equipos/Sallys/Sandstone.png"
+        },
+        {
+            "id": "91",
+            "nombre": "Sheldon",
+            "apellido": "",
+            "posicion": "Desconocida",
+            "img": "/equipos/Sallys/Sheldon.png"
+        },
+        {
+            "id": "92",
+            "nombre": "Squirrel",
+            "apellido": "",
+            "posicion": "Desconocida",
+            "img": "/equipos/Sallys/Squirrel.png"
+        },
+        {
+            "id": "93",
+            "nombre": "Stager",
+            "apellido": "",
+            "posicion": "Desconocida",
+            "img": "/equipos/Sallys/Stager.png"
+        },
+        {
+            "id": "94",
+            "nombre": "Yuma",
+            "apellido": "",
+            "posicion": "Desconocida",
+            "img": "/equipos/Sallys/Yuma.png"
+        }
+    ]    
+}

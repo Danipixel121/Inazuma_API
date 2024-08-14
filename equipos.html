@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Equipos</title>
+    <link rel="icon" type="image/x-icon" href="/img/logo.png">
+
+    <style>
+        h1 {
+            margin: 0;
+            padding: 10px 20px;
+            background-color: rgba(255, 255, 255, 0.7);
+            border-radius: 10px;
+            text-align: center;
+            font-size: 4rem;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            position: absolute;
+            top: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: 10;
+            width: 70%;
+            /* Ajusta el ancho a un 80% del contenedor */
+            max-width: 800px;
+            /* O bien establece un máximo para el ancho */
+            box-sizing: border-box;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            margin: 0;
+            background-image: url('/img/inbac.webp');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-attachment: fixed;
+            padding-top: 100px;
+            /* Añade un padding-top para evitar que los equipos se superpongan al h1 */
+        }
+
+        img {
+            margin-top: 2rem;
+            width: 200px;
+            height: 220px;
+            transition: transform 0.3s;
+        }
+
+        img:hover {
+            transform: scale(1.05);
+        }
+
+        #volver-btn {
+            position: absolute;
+            top: 5px;
+            left: 20px;
+            cursor: pointer;
+            height: 4rem;
+            width: 4.5rem;
+        }
+
+        .equipos {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 2rem;
+            padding: 2rem;
+            margin-top: 2rem;
+            /* Para evitar que los equipos se superpongan al título */
+        }
+
+        .equipo {
+            background-color: rgba(255, 255, 255, 0.7);
+            border-radius: 2rem;
+            font-size: 1.5rem;
+            border: 1px solid #ccc;
+            padding: 10px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 200px;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Equipos</h1>
+    <a href="index.html">
+        <img id="volver-btn" src="/img/back.png" alt="Volver">
+    </a>
+
+    <div class="equipos">
+
+        <div class="equipo">
+            <a href="jugadores.html?equipo=raimon">
+                <img src="img_club/raimon.png" alt="Logo del Club de Fútbol Raimon" style="width:200px;height:200px;">
+            </a>
+        </div>
+
+        <div class="equipo">
+            <a href="jugadores.html?equipo=royal_academy">
+                <img src="img_club/Royal_Academy.png" alt="Logo del Club de Fútbol Royal Academy"
+                    style="width:200px;height:200px;">
+            </a>
+        </div>
+
+        <div class="equipo">
+            <a href="jugadores.html?equipo=sallys">
+                <img src="img_club/Sallys.png" alt="Logo del Club de Fútbol Sallys" style="width:200px;height:200px;">
+            </a>
+        </div>
+
+        <div class="equipo">
+            <a href="jugadores.html?equipo=shuriken">
+                <img src="img_club/Shuriken.png" alt="Logo del Club de Fútbol Shuriken"
+                    style="width:200px;height:200px;">
+            </a>
+        </div>
+
+        <div class="equipo">
+            <a href="jugadores.html?equipo=umbrella">
+                <img src="img_club/Umbrella.png" alt="Logo del Club de Fútbol Umbrella"
+                    style="width:200px;height:200px;">
+            </a>
+        </div>
+
+        <div class="equipo">
+            <a href="jugadores.html?equipo=wild">
+                <img src="img_club/Wild.png" alt="Logo del Club de Fútbol Wild" style="width:200px;height:200px;">
+            </a>
+        </div>
+
+        <div class="equipo">
+            <a href="jugadores.html?equipo=zeus">
+                <img src="img_club/Zeus.png" alt="Logo del Club de Fútbol Zeus" style="width:200px;height:200px;">
+            </a>
+        </div>
+
+    </div>
+</body>
+
+</html>

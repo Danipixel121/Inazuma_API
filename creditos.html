@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Créditos</title>
+    <link rel="icon" type="image/x-icon" href="/img/logo.png">
+
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 0;
+            background-image: url('/img/creditos.png');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-attachment: fixed;
+        }
+
+        #volver-btn {
+            position: absolute;
+            top: 35px;
+            left: 20px;
+            cursor: pointer;
+            height: 4rem;
+            width: 4.5rem;
+        }
+
+        h1 {
+            margin: 0;
+            padding: 10px 20px;
+            background-color: rgba(255, 255, 255, 0.7);
+            border-radius: 10px;
+            text-align: center;
+            font-size: 4rem;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            position: absolute;
+            top: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: 10;
+            width: 70%;
+            /* Ajusta el ancho a un 80% del contenedor */
+            max-width: 800px;
+            /* O bien establece un máximo para el ancho */
+            box-sizing: border-box;
+        }
+        p {
+        margin-top: 10rem;
+        padding: 10px 20px;
+        background-color: rgba(58, 56, 56, 0.7);
+        border-radius: 10px;
+        font-size: 2rem; /* Tamaño de la letra */
+        font-family: 'Arial', sans-serif; /* Familia de la letra */
+        line-height: 1.5; /* Altura de la línea para mejorar la legibilidad */
+        color: #ffffff; /* Color del texto */
+        }   
+        .contenedor {
+            margin: 1rem;
+        }
+
+    </style>
+</head>
+
+<body>
+    <a href="index.html">
+        <img id="volver-btn" src="/img/back.png" alt="Volver">
+    </a>
+
+    <div class="contenedor">
+          <h1>Inazumero</h1>
+          <p>Mi nombre es Daniel,esto es un proyecto de pruba <br> con el uso de <br> FASTAPI,Python,HTML,CSS...</p>
+    </div>
+  
+
+</body>
+
+</html>

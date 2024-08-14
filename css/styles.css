@@ -1,0 +1,55 @@
+body {
+    background-image: url('/img/background.jpg');
+    background-size: cover; /* Asegura que la imagen cubra toda la pantalla */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center center; /* Centra la imagen en la pantalla */
+    background-attachment: fixed; /* Hace que la imagen de fondo permanezca fija al hacer scroll */
+    justify-content: center; /* Centra horizontalmente */
+    align-items: flex-start; /* Alinea al inicio verticalmente */
+    height: 100vh; /* Altura de la ventana gráfica */
+    flex-direction: column; /* Coloca los elementos en una columna */
+}
+h1 {
+    margin-top: 20px; /* Ajusta el margen superior según sea necesario */
+    padding: 10px 20px; /* Espaciado interno del h1 */
+    background-color: rgba(255, 255, 255, 0.7); /* Fondo semitransparente para el h1 */
+    border-radius: 10px; /* Bordes redondeados para el h1 */
+    text-align: center; /* Centra el texto dentro del h1 */
+    font-size: 4rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Estilo para los botones */
+.contenedor {
+    text-align: center; /* Centra los botones */
+    margin-top: 20px; /* Espacio arriba de los botones */
+}
+
+.boton {
+    display: inline-block;
+    margin: 10px; /* Espacio entre los botones */
+}
+
+.boton {
+    padding: 0.8rem 2rem; /* Reducido el padding para hacer más compacto */
+    font-size: 4rem; /* Reducido el tamaño de fuente */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #fff;
+    background-color: rgba(255, 69, 0, 0.8);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.boton:hover {
+    background-color: rgba(255, 99, 71, 0.8);
+    transform: scale(1.05);
+}
+
+.boton:active {
+    background-color: #ff4500;
+    transform: scale(0.95);
+}
+
