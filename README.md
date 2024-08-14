@@ -10,7 +10,7 @@ Este proyecto en español es una prueba de práctica para usar/hacer una API de 
 
 ## Jugadores
 
-![jugadores](img/Captura%de%pantalla%2024-08-14%144933.png)
+![jugadores](img/Capturadepantalla2024-08-14144933.png)
 
 ## Activación de la API
 
